@@ -1,2 +1,2 @@
 # Smartcontract
-Designed by erc20
+erc20
